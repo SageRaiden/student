@@ -9,13 +9,13 @@
         {
             "name": "John",
             "age": 23,
-            "email:" "Algreen@gmail.com",
+            "email:" "John@gmail.com",
             "isEnrolled": true
         },
         {
             "name": "Bryan",
             "age": 21,
-            "email:" "Algreen@gmail.com",
+            "email:" "Bryan@gmail.com",
             "isEnrolled": true
         }
     ]
