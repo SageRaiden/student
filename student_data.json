@@ -2,21 +2,22 @@
     "students": [
         {
             "name": "Algreen",
-            "age": "22",
+            "age": 22,
             "email": "Algreen@gmail.com",
             "isEnrolled": true
         },
         {
             "name": "John",
-            "age": "23",
+            "age": 23,
             "email": "John@gmail.com",
             "isEnrolled": true
         },
         {
             "name": "Bryan",
-            "age": "21",
+            "age": 21,
             "email": "Bryan@gmail.com",
             "isEnrolled": true
-        }
+        },
     ]
+
 }
