@@ -1,0 +1,23 @@
+{
+    "student": [
+        {
+            "name": "Algreen",
+            "age": 22,
+            "email:" "Algreen@gmail.com",
+            "isEnrolled": true
+        },
+        {
+            "name": "John",
+            "age": 23,
+            "email:" "Algreen@gmail.com",
+            "isEnrolled": true
+        },
+        {
+            "name": "Bryan",
+            "age": 21,
+            "email:" "Algreen@gmail.com",
+            "isEnrolled": true
+        }
+    ]
+
+}
